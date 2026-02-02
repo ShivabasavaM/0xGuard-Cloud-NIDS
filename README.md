@@ -1,4 +1,4 @@
-# 0xGuard - Unsupervised Cloud-Native NIDS
+# Cloud-Native NIDS | Unsupervised ML & Microservices 
 
 **0xGuard** is an autonomous network security system that detects zero-day intrusions using Unsupervised Learning. This repository hosts the **Cloud Inference Microservice**, a containerized REST API designed for high-throughput, real-time traffic analysis.
 
