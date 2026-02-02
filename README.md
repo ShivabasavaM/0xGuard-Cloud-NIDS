@@ -24,7 +24,7 @@ The production API is currently deployed on AWS EC2.
 
 **Access Credentials:**
 > To prevent abuse, the API is protected. Please use the following key during testing:
-> **X-API-Key:** `0xGuard_26`
+> **X-API-Key:** `0xGuard_1`
 
 ## 🛠️ Local Installation
 
