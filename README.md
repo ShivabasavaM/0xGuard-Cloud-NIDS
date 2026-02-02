@@ -69,3 +69,12 @@ The production API is currently deployed on AWS EC2.
   "byte_rate": 2400.0,
   "tcp_flags_sum": 2
 }
+```
+**Response (Normal Traffic):**
+```json
+{
+  "status": "SAFE",
+  "action": "ALLOW",
+  "anomaly_score": 0.15,
+  "details": "Traffic analyzed successfully"
+}
